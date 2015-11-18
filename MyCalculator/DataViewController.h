@@ -3,6 +3,7 @@
 //  MyCalculator
 //
 //  Created by Ashwin Bhargava on 11/17/15.
+//  Modified for new version
 //  Copyright © 2015 Ashwin Bhargava. All rights reserved.
 //
 
